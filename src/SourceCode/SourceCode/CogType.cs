@@ -1,0 +1,8 @@
+public enum CogType
+{
+	NONE,
+	START_COG,
+	VICTORY_COG,
+	INVENTORY_COG,
+	STATIC_COG
+}

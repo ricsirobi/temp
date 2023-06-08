@@ -1,0 +1,21 @@
+using System;
+
+[Serializable]
+public enum InteractiveTutActions
+{
+	NONE,
+	FLASH,
+	SHOW,
+	ENABLE,
+	DISABLE,
+	VISIBLE,
+	INVISIBLE,
+	STOP_FLASH,
+	BLINK_ON,
+	BLINK_OFF,
+	ENABLE_ALL_ITEMS,
+	DISABLE_ALL_ITEMS,
+	SHOW_ALL_ITEMS,
+	HIDE_ALL_ITEMS,
+	NOT_INTERACTIVE
+}

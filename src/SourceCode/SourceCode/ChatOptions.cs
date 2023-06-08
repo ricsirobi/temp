@@ -1,0 +1,8 @@
+public enum ChatOptions
+{
+	CHAT_ROOM,
+	CHAT_SYSTEM,
+	CHAT_FRIENDS,
+	CHAT_CLANS,
+	CHAT_EMOTICON
+}

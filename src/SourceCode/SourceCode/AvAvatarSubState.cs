@@ -1,0 +1,12 @@
+public enum AvAvatarSubState
+{
+	NORMAL,
+	SWIMMING,
+	FLYING,
+	SCUBA,
+	DIVESUIT,
+	GLIDING,
+	SKATING,
+	WALLCLIMB,
+	UWSWIMMING
+}

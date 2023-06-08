@@ -1,0 +1,13 @@
+public enum RaisedPetStage
+{
+	NONE,
+	POWERUP,
+	FIND,
+	EGGINHAND,
+	HATCHING,
+	BABY,
+	CHILD,
+	TEEN,
+	ADULT,
+	TITAN
+}

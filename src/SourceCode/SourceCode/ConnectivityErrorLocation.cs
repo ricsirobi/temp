@@ -1,0 +1,7 @@
+public enum ConnectivityErrorLocation
+{
+	APPLICATION_FIRST_LAUNCH,
+	PARENT_LOGIN,
+	LOGIN_SCENE,
+	REGISTER_SCENE
+}

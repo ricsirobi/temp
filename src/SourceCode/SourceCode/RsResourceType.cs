@@ -1,0 +1,12 @@
+public enum RsResourceType
+{
+	NONE,
+	ASSET_BUNDLE,
+	IMAGE,
+	MOVIE,
+	TEXT_ASSET,
+	AUDIO,
+	NONSTREAMING_AUDIO,
+	XML,
+	BINARY
+}

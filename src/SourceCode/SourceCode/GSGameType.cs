@@ -1,0 +1,8 @@
+public enum GSGameType
+{
+	TRAINING = 0,
+	REDPLANET = 1,
+	HEADTOHEAD = 2,
+	CROSSBOW_ARROW = 3,
+	UNKNOWN = 255
+}

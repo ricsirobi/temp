@@ -1,0 +1,8 @@
+public enum NPC_FSM
+{
+	NORMAL,
+	ESCORT,
+	FOLLOW,
+	CHASE,
+	SEARCH
+}

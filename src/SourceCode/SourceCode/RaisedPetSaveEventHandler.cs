@@ -1,0 +1,1 @@
+public delegate void RaisedPetSaveEventHandler(SetRaisedPetResponse response);

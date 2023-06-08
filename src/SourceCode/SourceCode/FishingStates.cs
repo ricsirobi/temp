@@ -1,0 +1,15 @@
+public enum FishingStates
+{
+	FS_INITIAL,
+	FS_EQUIP,
+	FS_READY,
+	FS_READYTOCAST,
+	FS_CAST,
+	FS_ENGAGE,
+	FS_NIBBLE,
+	FS_REEL,
+	FS_CATCH,
+	FS_SCARE,
+	FS_ESCAPE,
+	FS_SNAP
+}

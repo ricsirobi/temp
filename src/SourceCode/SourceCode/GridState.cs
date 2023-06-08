@@ -1,0 +1,9 @@
+public enum GridState
+{
+	INTERACTIVE,
+	FALLING,
+	FILLING,
+	SWAPPING,
+	FREEZ,
+	TILE_SELECTED
+}

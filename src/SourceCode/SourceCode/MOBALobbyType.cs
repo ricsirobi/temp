@@ -1,0 +1,6 @@
+public enum MOBALobbyType
+{
+	CLAN_LOBBY,
+	SKIRMISH_LOBBY,
+	PREGAME_LOBBY
+}

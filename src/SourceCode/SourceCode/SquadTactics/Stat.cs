@@ -1,0 +1,13 @@
+namespace SquadTactics;
+
+public enum Stat
+{
+	CRITICALCHANCE,
+	CRITICALMULTIPLIER,
+	DODGE,
+	FIREPOWER,
+	HEALINGPOWER,
+	HEALTH,
+	MOVEMENT,
+	STRENGTH
+}

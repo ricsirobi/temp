@@ -1,0 +1,18 @@
+public enum EnEnemyState
+{
+	NONE,
+	IDLE,
+	PATROL,
+	ALERT,
+	ATTACK,
+	BLOCK_SHOT,
+	TIRED,
+	STUNNED,
+	RETURN,
+	TAKEHIT,
+	DEATH,
+	SHOOT,
+	CELEBRATE,
+	RUNAWAY,
+	DEAD
+}

@@ -1,0 +1,13 @@
+public enum InputType
+{
+	NONE = 0,
+	KEYBOARD = 1,
+	MOUSE = 2,
+	JOYSTICK = 4,
+	TOUCH = 8,
+	UI_BUTTONS = 16,
+	BUTTONS = 32,
+	ACCELEROMETER = 64,
+	COMBINATION = 128,
+	ALL = 255
+}

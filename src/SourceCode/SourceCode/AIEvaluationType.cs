@@ -1,0 +1,7 @@
+public enum AIEvaluationType
+{
+	FAR_FROM_OWNER,
+	NEAR_OWNER,
+	PETPLAY_FAR_FROM_HOME,
+	PET_ISNOT_ANGRY
+}

@@ -1,0 +1,1 @@
+public delegate void RedeemItemsEventHandler(CommonInventoryGroupResponse res);

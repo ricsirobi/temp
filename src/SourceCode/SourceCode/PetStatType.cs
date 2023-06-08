@@ -1,0 +1,19 @@
+using System;
+
+[Serializable]
+public enum PetStatType
+{
+	MAXVALUE,
+	ATTACK,
+	RANGE,
+	ARMOR,
+	FIREPOWER,
+	SHOTLIMIT,
+	CRIT,
+	REGEN,
+	HEALTH,
+	MAXSPEED,
+	PITCHRATE,
+	TURNRATE,
+	ACCELERATION
+}

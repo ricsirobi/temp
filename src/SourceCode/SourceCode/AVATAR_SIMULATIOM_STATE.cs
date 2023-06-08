@@ -1,0 +1,6 @@
+public enum AVATAR_SIMULATIOM_STATE
+{
+	IDLE,
+	WALK,
+	RIDE
+}

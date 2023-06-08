@@ -1,0 +1,9 @@
+public enum AvAvatarLevelState
+{
+	NORMAL,
+	RACING,
+	FLIGHTSCHOOL,
+	MAZETIMETRIAL,
+	TARGETPRACTICE,
+	WORLDEVENT
+}

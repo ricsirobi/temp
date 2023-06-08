@@ -1,0 +1,10 @@
+public enum ExperimentType
+{
+	NORMAL,
+	GRONCKLE_IRON,
+	SKRILL_LAB,
+	MAGNETISM_LAB,
+	SPECTRUM_LAB,
+	TITRATION_LAB,
+	UNKNOWN
+}

@@ -1,0 +1,1 @@
+public delegate void OnGameStateChangeDelegate(TileMatchPuzzleGame.GameState inNewState, TileMatchPuzzleGame.GameState inPrvState);

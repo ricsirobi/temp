@@ -1,0 +1,1 @@
+public delegate void ArrayUserAchievementTaskEventHandler(WsServiceEvent inEvent, ArrayOfUserAchievementTask arrayOfUserAchievementTask);
